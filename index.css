@@ -9,7 +9,7 @@ body{
     clear:both;
 }
 .main{
-    height: 1150px;
+    height: 1520px;
     width: 800px;
     background-color: white;
     box-shadow: 5px 7px 15 px 5px #b9b6b6;
@@ -25,7 +25,7 @@ body{
         border-radius: 50%;
 }
 .p1{
-    color:white;
+    color: white;
     font-size: 40px;
     font-weight: bold;
     margin: 0px;
@@ -45,8 +45,8 @@ margin-top: 10px;
         float: left;
 }
 .line{
-    border-left: 1px solid #c7c7c7;
-    height: 800px;
+    border-left: 2px solid skyblue;
+    height: 1000px;
     width: 2%;
     margin-top: 30px;
     float:left;
@@ -74,6 +74,23 @@ color:#151b29;
             color: #c7c7c7
 }
 .p-4{
-    font-size: 14px;
-    color: #c7c7c7
+    font-size: 14px
+}
+.p-5{
+    text-align: justify;
+}
+
+.fas{
+        color: black;
+}
+
+.hp{
+    text-align: left;
+    font-size: 11px;
+}
+
+.he{
+    font-style: bold;
+    font-size: 15px;
+    text-align: justify;
 }
